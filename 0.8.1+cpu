@@ -1,0 +1,733 @@
+Looking in links: https://download.pytorch.org/whl/torch_stable.html
+Requirement already satisfied: torchvision in d:\programdata\anaconda3\envs\pytorch\lib\site-packages (0.8.1+cpu)
+Collecting torch==1.7.0
+  Using cached https://download.pytorch.org/whl/cu110/torch-1.7.0%2Bcu110-cp37-cp37m-win_amd64.whl (2046.8 MB)
+Requirement already satisfied: numpy in d:\programdata\anaconda3\envs\pytorch\lib\site-packages (from torchvision) (1.21.5)
+Requirement already satisfied: pillow>=4.1.1 in d:\programdata\anaconda3\envs\pytorch\lib\site-packages (from torchvision) (8.2.0)
+Requirement already satisfied: typing-extensions in d:\programdata\anaconda3\envs\pytorch\lib\site-packages (from torch==1.7.0->torchvision) (3.10.0.2)
+Requirement already satisfied: future in d:\programdata\anaconda3\envs\pytorch\lib\site-packages (from torch==1.7.0->torchvision) (0.18.2)
+Requirement already satisfied: dataclasses in d:\programdata\anaconda3\envs\pytorch\lib\site-packages (from torch==1.7.0->torchvision) (0.6)
+Installing collected packages: torch
+  Attempting uninstall: torch
+    Found existing installation: torch 1.10.2
+    Uninstalling torch-1.10.2:
+      Successfully uninstalled torch-1.10.2
+  Rolling back uninstall of torch
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\caffe2
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\~affe2
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch-1.10.2-py3.7.egg-info
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\~orch-1.10.2-py3.7.egg-info
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__config__.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__config__.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__future__.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__future__.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__init__.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__init__.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\__config__.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\__config__.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\__future__.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\__future__.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\__init__.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\__init__.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_appdirs.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_appdirs.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_classes.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_classes.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_deploy.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_deploy.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_jit_internal.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_jit_internal.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_linalg_utils.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_linalg_utils.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_lobpcg.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_lobpcg.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_lowrank.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_lowrank.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_namedtensor_internals.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_namedtensor_internals.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_ops.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_ops.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_python_dispatcher.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_python_dispatcher.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_six.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_six.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_sources.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_sources.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_storage_docs.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_storage_docs.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_tensor.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_tensor.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_tensor_docs.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_tensor_docs.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_tensor_str.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_tensor_str.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_torch_docs.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_torch_docs.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_utils.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_utils.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_utils_internal.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_utils_internal.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_vf.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_vf.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\_vmap_internals.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\_vmap_internals.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\autocast_mode.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\autocast_mode.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\functional.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\functional.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\hub.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\hub.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\overrides.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\overrides.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\quasirandom.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\quasirandom.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\random.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\random.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\serialization.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\serialization.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\storage.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\storage.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\torch_version.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\torch_version.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\types.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\types.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\__pycache__\version.cpython-37.pyc
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\__pycache__\version.cpython-37.pyc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_appdirs.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_appdirs.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_c.cp37-win_amd64.pyd
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_c.cp37-win_amd64.pyd
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_c\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\~c
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_classes.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_classes.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_deploy.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_deploy.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_jit_internal.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_jit_internal.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_linalg_utils.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_linalg_utils.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_lobpcg.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_lobpcg.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_lowrank.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_lowrank.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_namedtensor_internals.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_namedtensor_internals.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_ops.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_ops.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_python_dispatcher.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_python_dispatcher.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_six.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_six.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_sources.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_sources.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_storage_docs.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_storage_docs.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_tensor.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_tensor.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_tensor_docs.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_tensor_docs.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_tensor_str.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_tensor_str.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_torch_docs.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_torch_docs.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_utils.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_utils.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_utils_internal.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_utils_internal.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_vf.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_vf.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\_vmap_internals.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\_vmap_internals.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\ao\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\~o
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\autocast_mode.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\autocast_mode.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\autograd\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\~utograd
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\backends\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\~ackends
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\bin\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\~in
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\contrib\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\~ontrib
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\cpu\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\~pu
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\cuda\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\~uda
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\distributed\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\~istributed
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\distributions\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\~istributions
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\fft\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\~ft
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\for_onnx\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\~or_onnx
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\functional.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\functional.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\futures\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\~utures
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\fx\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\~x
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\hub.py
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\hub.py
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\accumulatetype.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\accumulatetype.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\arrayref.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\arrayref.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\aten.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\aten.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\autocast_mode.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\autocast_mode.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\backend.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\backend.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\backtrace.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\backtrace.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\batchedfallback.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\batchedfallback.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\batchedtensorimpl.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\batchedtensorimpl.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\compositeexplicitautogradfunctions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\compositeexplicitautogradfunctions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\compositeexplicitautogradfunctions_inl.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\compositeexplicitautogradfunctions_inl.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\compositeimplicitautogradfunctions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\compositeimplicitautogradfunctions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\compositeimplicitautogradfunctions_inl.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\compositeimplicitautogradfunctions_inl.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\config.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\config.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\context.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\context.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\alias_info.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\alias_info.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\array.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\array.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\aten_interned_strings.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\aten_interned_strings.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\atengeneral.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\atengeneral.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\atenoplist.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\atenoplist.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\backtrace.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\backtrace.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\blob.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\blob.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\boxing\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\~oxing
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\builtin_function.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\builtin_function.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\deprecatedtypeproperties.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\deprecatedtypeproperties.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\deprecatedtypepropertiesregistry.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\deprecatedtypepropertiesregistry.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\dict.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\dict.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\dict_inl.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\dict_inl.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\dimname.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\dimname.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\dimvector.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\dimvector.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\dispatch\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\~ispatch
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\distributionshelper.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\distributionshelper.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\formatting.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\formatting.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\function.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\function.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\function_schema.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\function_schema.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\function_schema_inl.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\function_schema_inl.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\functional.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\functional.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\generator.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\generator.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\grad_mode.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\grad_mode.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\interned_strings.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\interned_strings.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\interned_strings_class.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\interned_strings_class.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\ivalue.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\ivalue.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\ivalue_inl.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\ivalue_inl.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\ivalue_to.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\ivalue_to.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\jit_type.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\jit_type.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\jit_type_base.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\jit_type_base.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\legacytypedispatch.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\legacytypedispatch.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\list.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\list.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\list_inl.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\list_inl.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\macros.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\macros.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\mt19937rngengine.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\mt19937rngengine.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\namedtensor.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\namedtensor.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\op_registration\adaption.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\op_registration\adaption.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\op_registration\infer_schema.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\op_registration\infer_schema.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\op_registration\op_allowlist.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\op_registration\op_allowlist.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\op_registration\op_registration.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\op_registration\op_registration.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\operator_name.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\operator_name.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\philoxrngengine.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\philoxrngengine.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\pythonmodetls.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\pythonmodetls.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\qualified_name.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\qualified_name.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\quantizerbase.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\quantizerbase.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\range.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\range.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\reduction.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\reduction.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\rref_interface.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\rref_interface.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\scalar.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\scalar.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\scalartype.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\scalartype.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\stack.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\stack.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\tensor.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\tensor.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\tensoraccessor.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\tensoraccessor.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\tensorbase.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\tensorbase.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\tensorbody.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\tensorbody.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\transformationhelper.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\transformationhelper.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\typeid.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\typeid.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\undefinedtensorimpl.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\undefinedtensorimpl.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\unsafefromth.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\unsafefromth.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\variablehooksinterface.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\variablehooksinterface.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\variadic.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\variadic.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\core\vitals.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\core\vitals.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cpp_custom_type_hack.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cpp_custom_type_hack.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cpu\flushdenormal.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cpu\flushdenormal.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cpu\vec\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cpu\~ec
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cpu\vml.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cpu\vml.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cpuapplyutils.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cpuapplyutils.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cpufixedallocator.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cpufixedallocator.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cpufunctions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cpufunctions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cpufunctions_inl.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cpufunctions_inl.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cpugeneratorimpl.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cpugeneratorimpl.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\atencudageneral.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\atencudageneral.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\cub.cuh
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\cub.cuh
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\cudaapplyutils.cuh
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\cudaapplyutils.cuh
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\cudablas.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\cudablas.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\cudaconfig.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\cudaconfig.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\cudacontext.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\cudacontext.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\cudadevice.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\cudadevice.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\cudaevent.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\cudaevent.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\cudagraph.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\cudagraph.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\cudagraphsutils.cuh
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\cudagraphsutils.cuh
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\cudasolver.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\cudasolver.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\cudatensormethods.cuh
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\cudatensormethods.cuh
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\cudautils.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\cudautils.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\detail\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\~etail
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\deviceutils.cuh
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\deviceutils.cuh
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\exceptions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\exceptions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\numericlimits.cuh
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\numericlimits.cuh
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cuda\pinnedmemoryallocator.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cuda\pinnedmemoryallocator.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cudafunctions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cudafunctions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cudafunctions_inl.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cudafunctions_inl.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cudageneratorimpl.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\cudageneratorimpl.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\cudnn\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\~udnn
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\detail\cudahooksinterface.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\detail\cudahooksinterface.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\detail\functiontraits.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\detail\functiontraits.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\detail\hiphooksinterface.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\detail\hiphooksinterface.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\detail\orthooksinterface.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\detail\orthooksinterface.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\device.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\device.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\deviceguard.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\deviceguard.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\dimname.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\dimname.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\dimvector.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\dimvector.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\dispatch.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\dispatch.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\div_rtn.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\div_rtn.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\dlconvertor.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\dlconvertor.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\dlpack.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\dlpack.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\dynamiclibrary.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\dynamiclibrary.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\expandutils.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\expandutils.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\formatting.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\formatting.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\functions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\functions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\generator.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\generator.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\hip\impl\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\hip\~mpl
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\infersize.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\infersize.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\initialtensoroptions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\initialtensoroptions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\layout.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\layout.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\mapallocator.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\mapallocator.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\matrixref.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\matrixref.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\memoryoverlap.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\memoryoverlap.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\metafunctions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\metafunctions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\metafunctions_inl.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\metafunctions_inl.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\namedtensor.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\namedtensor.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\namedtensorutils.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\namedtensorutils.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\native\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\~ative
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\nativefunctions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\nativefunctions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\nativemetafunctions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\nativemetafunctions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\numericutils.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\numericutils.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\opaquetensorimpl.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\opaquetensorimpl.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\operators.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\operators.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\opmathtype.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\opmathtype.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\parallel.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\parallel.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\parallelnative.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\parallelnative.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\parallelnativetbb.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\parallelnativetbb.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\parallelopenmp.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\parallelopenmp.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\ptthreadpool.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\ptthreadpool.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\quantized\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\~uantized
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\record_function.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\record_function.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\redispatchfunctions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\redispatchfunctions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\registrationdeclarations.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\registrationdeclarations.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\savedtensorhooks.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\savedtensorhooks.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\scalar.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\scalar.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\scalarops.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\scalarops.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\scalartype.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\scalartype.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\sequencenumber.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\sequencenumber.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\smallvector.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\smallvector.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\sparsecsrtensorimpl.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\sparsecsrtensorimpl.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\sparsecsrtensorutils.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\sparsecsrtensorutils.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\sparsetensorimpl.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\sparsetensorimpl.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\sparsetensorutils.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\sparsetensorutils.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\storage.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\storage.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\tensor.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\tensor.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\tensoraccessor.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\tensoraccessor.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\tensorgeometry.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\tensorgeometry.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\tensorindexing.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\tensorindexing.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\tensoriterator.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\tensoriterator.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\tensoriteratorinternal.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\tensoriteratorinternal.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\tensormeta.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\tensormeta.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\tensornames.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\tensornames.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\tensoroperators.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\tensoroperators.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\tensoroptions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\tensoroptions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\tensorutils.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\tensorutils.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\threadlocalstate.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\threadlocalstate.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\tracermode.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\tracermode.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\typedefault.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\typedefault.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\utils.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\utils.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\version.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\version.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\vmapmode.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\vmapmode.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\vmaptransforms.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\vmaptransforms.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\wrapdimutils.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\wrapdimutils.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\aten\wrapdimutilsmulti.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\aten\wrapdimutilsmulti.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\c10\core\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\c10\~ore
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\c10\cuda\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\c10\~uda
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\c10\macros\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\c10\~acros
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\c10\util\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\c10\~til
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\c10d\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\~10d
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\core\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~ore
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\cuda_rtc\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~uda_rtc
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\db\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~b
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\distributed\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~istributed
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\ideep\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~deep
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\image\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~mage
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\mpi\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~pi
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\observers\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~bservers
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\onnx\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~nnx
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\operators\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~perators
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\opt\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~pt
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\perfkernels\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~erfkernels
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\predictor\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~redictor
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\proto\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~roto
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\python\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~ython
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\queue\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~ueue
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\serialize\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~erialize
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\sgd\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~gd
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\transforms\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~ransforms
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\utils\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~tils
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\video\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\caffe2\~ideo
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\pybind11\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\~ybind11
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\generic\thstorage.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\generic\thstorage.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\generic\thstoragecopy.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\generic\thstoragecopy.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\generic\thtensor.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\generic\thtensor.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\generic\thtensor.hpp
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\generic\thtensor.hpp
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\th.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\th.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgeneral.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgeneral.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgeneratealltypes.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgeneratealltypes.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgeneratebfloat16type.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgeneratebfloat16type.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgeneratebooltype.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgeneratebooltype.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgeneratebytetype.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgeneratebytetype.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgeneratechartype.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgeneratechartype.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgeneratecomplexdoubletype.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgeneratecomplexdoubletype.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgeneratecomplexfloattype.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgeneratecomplexfloattype.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgeneratecomplextypes.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgeneratecomplextypes.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgeneratedoubletype.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgeneratedoubletype.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgeneratefloattype.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgeneratefloattype.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgeneratefloattypes.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgeneratefloattypes.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgeneratehalftype.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgeneratehalftype.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgenerateinttype.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgenerateinttype.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgenerateinttypes.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgenerateinttypes.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgeneratelongtype.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgeneratelongtype.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgenerateqint32type.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgenerateqint32type.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgenerateqint8type.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgenerateqint8type.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgenerateqtypes.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgenerateqtypes.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgeneratequint4x2type.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgeneratequint4x2type.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgeneratequint8type.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgeneratequint8type.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thgenerateshorttype.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thgenerateshorttype.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thhalf.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thhalf.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thstorage.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thstorage.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thstoragefunctions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thstoragefunctions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thstoragefunctions.hpp
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thstoragefunctions.hpp
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thtensor.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thtensor.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\th\thtensor.hpp
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\th\thtensor.hpp
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\api\include\torch\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\api\include\~orch
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\anomaly_mode.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\anomaly_mode.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\autograd.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\autograd.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\autograd_not_implemented_fallback.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\autograd_not_implemented_fallback.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\cpp_hook.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\cpp_hook.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\custom_function.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\custom_function.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\edge.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\edge.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\engine.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\engine.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\forward_grad.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\forward_grad.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\function.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\function.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\function_hook.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\function_hook.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\functions\
+   from d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\~unctions
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\functionsmanual.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\functionsmanual.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\generated\functions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\generated\functions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\generated\python_functions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\generated\python_functions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\generated\variable_factories.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\generated\variable_factories.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\generated\variabletype.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\generated\variabletype.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\grad_mode.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\grad_mode.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\inferencemode.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\inferencemode.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\input_buffer.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\input_buffer.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\input_metadata.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\input_metadata.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\profiler.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\profiler.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\profiler_kineto.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\profiler_kineto.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\profiler_legacy.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\profiler_legacy.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\profiler_utils.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\profiler_utils.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\python_anomaly_mode.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\python_anomaly_mode.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\python_autograd.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\python_autograd.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\python_cpp_function.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\python_cpp_function.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\python_engine.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\python_engine.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\python_fft_functions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\python_fft_functions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\python_function.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\python_function.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\python_hook.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\python_hook.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\python_legacy_variable.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\python_legacy_variable.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\python_linalg_functions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\python_linalg_functions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\python_mode.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\python_mode.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\python_nn_functions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\python_nn_functions.h
+  Moving to d:\programdata\anaconda3\envs\pytorch\lib\site-packages\torch\include\torch\csrc\autograd\python_nn_functions.h
+   from C:\Users\11481\AppData\Local\Temp\pip-uninstall-zn8__zy6\include\torch\csrc\autograd\python_nn_functions.h
